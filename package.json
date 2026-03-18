@@ -1,0 +1,13 @@
+{
+  "name": "qr-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "jimp": "^0.22.10",
+    "qrcode-reader": "^1.0.4"
+  }
+}
